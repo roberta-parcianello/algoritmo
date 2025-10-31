@@ -14,5 +14,6 @@ int main()
     if(dinheiro >= preco){
         printf("uhuuuu!!! Voce consegue comprar o video game!!!");
     }
-    
+    getchar();
+    getchar();
 }
